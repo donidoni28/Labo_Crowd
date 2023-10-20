@@ -1,0 +1,17 @@
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Repository\bin\Debug\net6.0\DAL.Repository.deps.json
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Repository\bin\Debug\net6.0\DAL.Repository.dll
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Repository\bin\Debug\net6.0\DAL.Repository.pdb
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Repository\bin\Debug\net6.0\DAL.DataAcces.dll
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Repository\bin\Debug\net6.0\DAL.Entity.dll
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Repository\bin\Debug\net6.0\DAL.DataAcces.pdb
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Repository\bin\Debug\net6.0\DAL.Entity.pdb
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Repository\obj\Debug\net6.0\DAL.Repository.csproj.AssemblyReference.cache
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Repository\obj\Debug\net6.0\DAL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Repository\obj\Debug\net6.0\DAL.Repository.AssemblyInfoInputs.cache
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Repository\obj\Debug\net6.0\DAL.Repository.AssemblyInfo.cs
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Repository\obj\Debug\net6.0\DAL.Repository.csproj.CoreCompileInputs.cache
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Repository\obj\Debug\net6.0\DAL.Repository.csproj.CopyComplete
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Repository\obj\Debug\net6.0\DAL.Repository.dll
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Repository\obj\Debug\net6.0\refint\DAL.Repository.dll
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Repository\obj\Debug\net6.0\DAL.Repository.pdb
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Repository\obj\Debug\net6.0\ref\DAL.Repository.dll

@@ -1,0 +1,7 @@
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\CrowdFounding_labo\obj\Debug\net6.0\CrowdFounding_labo.csproj.AssemblyReference.cache
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\CrowdFounding_labo\obj\Debug\net6.0\CrowdFounding_labo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\CrowdFounding_labo\obj\Debug\net6.0\CrowdFounding_labo.AssemblyInfoInputs.cache
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\CrowdFounding_labo\obj\Debug\net6.0\CrowdFounding_labo.AssemblyInfo.cs
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\CrowdFounding_labo\obj\Debug\net6.0\CrowdFounding_labo.csproj.CoreCompileInputs.cache
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\CrowdFounding_labo\obj\Debug\net6.0\CrowdFounding_labo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\CrowdFounding_labo\obj\Debug\net6.0\CrowdFounding_labo.MvcApplicationPartsAssemblyInfo.cache

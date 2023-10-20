@@ -1,0 +1,366 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\CrowdFounding_labo\\CrowdFounding_labo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\BLL.Services\\BLL.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\BLL.Services\\BLL.Services.csproj",
+        "projectName": "BLL.Services",
+        "projectPath": "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\BLL.Services\\BLL.Services.csproj",
+        "packagesPath": "C:\\Users\\c.liridon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\BLL.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\c.liridon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\DAL.Repository\\DAL.Repository.csproj": {
+                "projectPath": "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\DAL.Repository\\DAL.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\CrowdFounding_labo\\CrowdFounding_labo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\CrowdFounding_labo\\CrowdFounding_labo.csproj",
+        "projectName": "CrowdFounding_labo",
+        "projectPath": "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\CrowdFounding_labo\\CrowdFounding_labo.csproj",
+        "packagesPath": "C:\\Users\\c.liridon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\CrowdFounding_labo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\c.liridon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\BLL.Services\\BLL.Services.csproj": {
+                "projectPath": "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\BLL.Services\\BLL.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\DAL.DataAcces\\DAL.DataAcces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\DAL.DataAcces\\DAL.DataAcces.csproj",
+        "projectName": "DAL.DataAcces",
+        "projectPath": "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\DAL.DataAcces\\DAL.DataAcces.csproj",
+        "packagesPath": "C:\\Users\\c.liridon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\DAL.DataAcces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\c.liridon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\DAL.Entity\\DAL.Entity.csproj": {
+                "projectPath": "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\DAL.Entity\\DAL.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\DAL.Entity\\DAL.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\DAL.Entity\\DAL.Entity.csproj",
+        "projectName": "DAL.Entity",
+        "projectPath": "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\DAL.Entity\\DAL.Entity.csproj",
+        "packagesPath": "C:\\Users\\c.liridon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\DAL.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\c.liridon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\DAL.Repository\\DAL.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\DAL.Repository\\DAL.Repository.csproj",
+        "projectName": "DAL.Repository",
+        "projectPath": "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\DAL.Repository\\DAL.Repository.csproj",
+        "packagesPath": "C:\\Users\\c.liridon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\DAL.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\c.liridon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\DAL.DataAcces\\DAL.DataAcces.csproj": {
+                "projectPath": "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\DAL.DataAcces\\DAL.DataAcces.csproj"
+              },
+              "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\DAL.Entity\\DAL.Entity.csproj": {
+                "projectPath": "C:\\Users\\c.liridon\\Desktop\\TechoFuturTic\\Ado_Linq\\CrowdFounding_labo\\DAL.Entity\\DAL.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

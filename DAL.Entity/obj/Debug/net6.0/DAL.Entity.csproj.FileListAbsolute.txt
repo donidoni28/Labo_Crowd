@@ -1,0 +1,11 @@
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Entity\bin\Debug\net6.0\DAL.Entity.deps.json
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Entity\bin\Debug\net6.0\DAL.Entity.dll
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Entity\bin\Debug\net6.0\DAL.Entity.pdb
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Entity\obj\Debug\net6.0\DAL.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Entity\obj\Debug\net6.0\DAL.Entity.AssemblyInfoInputs.cache
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Entity\obj\Debug\net6.0\DAL.Entity.AssemblyInfo.cs
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Entity\obj\Debug\net6.0\DAL.Entity.csproj.CoreCompileInputs.cache
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Entity\obj\Debug\net6.0\DAL.Entity.dll
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Entity\obj\Debug\net6.0\refint\DAL.Entity.dll
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Entity\obj\Debug\net6.0\DAL.Entity.pdb
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.Entity\obj\Debug\net6.0\ref\DAL.Entity.dll

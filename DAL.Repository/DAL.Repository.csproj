@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DAL.DataAcces\DAL.DataAcces.csproj" />
+    <ProjectReference Include="..\DAL.Entity\DAL.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.DataAcces\bin\Debug\net6.0\DAL.DataAcces.deps.json
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.DataAcces\bin\Debug\net6.0\DAL.DataAcces.runtimeconfig.json
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.DataAcces\bin\Debug\net6.0\DAL.DataAcces.dll
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.DataAcces\bin\Debug\net6.0\DAL.DataAcces.pdb
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.DataAcces\bin\Debug\net6.0\DAL.Entity.dll
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.DataAcces\bin\Debug\net6.0\DAL.Entity.pdb
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.DataAcces\obj\Debug\net6.0\DAL.DataAcces.csproj.AssemblyReference.cache
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.DataAcces\obj\Debug\net6.0\DAL.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.DataAcces\obj\Debug\net6.0\DAL.DataAcces.AssemblyInfoInputs.cache
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.DataAcces\obj\Debug\net6.0\DAL.DataAcces.AssemblyInfo.cs
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.DataAcces\obj\Debug\net6.0\DAL.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.DataAcces\obj\Debug\net6.0\DAL.DataAcces.csproj.CopyComplete
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.DataAcces\obj\Debug\net6.0\DAL.DataAcces.dll
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.DataAcces\obj\Debug\net6.0\refint\DAL.DataAcces.dll
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.DataAcces\obj\Debug\net6.0\DAL.DataAcces.pdb
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.DataAcces\obj\Debug\net6.0\DAL.DataAcces.genruntimeconfig.cache
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\DAL.DataAcces\obj\Debug\net6.0\ref\DAL.DataAcces.dll

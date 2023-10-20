@@ -1,0 +1,11 @@
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\BLL.Mappers\bin\Debug\net6.0\BLL.Mappers.deps.json
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\BLL.Mappers\bin\Debug\net6.0\BLL.Mappers.dll
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\BLL.Mappers\bin\Debug\net6.0\BLL.Mappers.pdb
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\BLL.Mappers\obj\Debug\net6.0\BLL.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\BLL.Mappers\obj\Debug\net6.0\BLL.Mappers.AssemblyInfoInputs.cache
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\BLL.Mappers\obj\Debug\net6.0\BLL.Mappers.AssemblyInfo.cs
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\BLL.Mappers\obj\Debug\net6.0\BLL.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\BLL.Mappers\obj\Debug\net6.0\BLL.Mappers.dll
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\BLL.Mappers\obj\Debug\net6.0\refint\BLL.Mappers.dll
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\BLL.Mappers\obj\Debug\net6.0\BLL.Mappers.pdb
+C:\Users\c.liridon\Desktop\TechoFuturTic\Ado_Linq\CrowdFounding_labo\BLL.Mappers\obj\Debug\net6.0\ref\BLL.Mappers.dll
